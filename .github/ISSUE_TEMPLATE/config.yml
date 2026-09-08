@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ideas and questions
+    url: https://github.com/netplanet1981/data-modelling-tool-feedback/discussions
+    about: Discuss an idea or ask the community a question.
+
+  - name: Report a security vulnerability
+    url: https://github.com/netplanet1981/data-modelling-tool-feedback/security/advisories/new
+    about: Report security problems privately. Do not create a public issue.
