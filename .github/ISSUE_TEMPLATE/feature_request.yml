@@ -1,0 +1,41 @@
+name: Feature request
+description: Suggest an improvement for Data Modelling Tool
+title: "[Idea]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing an idea.
+
+        Do not include confidential models, DDL, credentials, or company data.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or use case
+      description: What are you trying to accomplish?
+    validations:
+      required: true
+
+  - type: textarea
+    id: desired-outcome
+    attributes:
+      label: Desired outcome
+      description: Describe how you would like the tool to behave.
+    validations:
+      required: true
+
+  - type: textarea
+    id: workaround
+    attributes:
+      label: Current workaround
+      description: How do you handle this today?
+
+  - type: textarea
+    id: broader-value
+    attributes:
+      label: How would this help other users?
+    validations:
+      required: true
