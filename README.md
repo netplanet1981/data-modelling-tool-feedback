@@ -21,6 +21,8 @@ Model files are processed locally in your browser and are not uploaded to a serv
 
 Keep your own backups. Do not include confidential models, DDL, credentials, or company data in public issues or discussions.
 
+Read the full [Privacy Notice](https://github.com/netplanet1981/data-modelling-tool-feedback/blob/main/PRIVACY.md).
+
 ## Feedback
 
 - [Report a bug](https://github.com/netplanet1981/data-modelling-tool-feedback/issues)
@@ -35,3 +37,4 @@ Do not report security vulnerabilities through a public issue. Use [private vuln
 ## Source code and contributions
 
 This repository is only for feedback and discussions. It does not contain the application source code and is not accepting code contributions.
+
