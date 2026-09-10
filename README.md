@@ -6,7 +6,7 @@ Data Modelling Tool is a browser-based visual editor for designing physical mode
 
 ## Web application
 
-[Open Data Modelling Tool](https://data-modelling-tool.pages.dev)
+[Open Data Modelling Tool](https://xinxing.dev)
 
 ## Supported browsers
 
