@@ -2,11 +2,11 @@
 
 Public feedback and discussions for **Data Modelling Tool**.
 
-Data Modelling Tool is a browser-based visual editor for designing physical models for Snowflake. Version 0.1 is being prepared as a free public beta.
+Data Modelling Tool is a browser-based visual editor for designing physical models for Snowflake. Version 0.1.0 is available as a free public beta.
 
 ## Web application
 
-The public application link will be added when v0.1.0 is ready.
+[Open Data Modelling Tool](https://data-modelling-tool.pages.dev)
 
 ## Supported browsers
 
